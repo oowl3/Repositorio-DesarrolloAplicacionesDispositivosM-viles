@@ -27,13 +27,13 @@ El sistema soluciona la necesidad de procesar archivos de datos en formato JSON 
 
 ## 📸 Capturas de Pantalla
 ### Menú principal
-![Menú principal](assets/proyecto1-menu.png)
+![Menú principal](../assets/proyecto1-menu.png)
 
 ### Estadisticas
-![Estadisticas](assets/proyecto1-estadistica.png)
+![Estadisticas](../assets/proyecto1-estadistica.png)
 
 ### Registro
-![Registro](assets/proyecto1-registro.png)
+![Registro](../assets/proyecto1-registro.png)
 ---
 
 ## 🚀 Instrucciones de Ejecución
