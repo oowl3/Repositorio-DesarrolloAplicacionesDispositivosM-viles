@@ -23,9 +23,9 @@ Este portafolio recopila las evidencias técnicas y aplicaciones desarrolladas d
 
 ## 🚀 Proyectos Incluidos
 
-1. [cite_start]**[Sistema de Análisis y Gestión de Datos (COBIKE)](../assets/proyecto1-menu.png)**: Aplicación de consola robusta para el procesamiento, filtrado y exportación de datos en formato JSON.
-2. [cite_start]**[Mi Primera App](../assets/proyecto2-vista_sistema.png)**: Proyecto base en Flutter para la comprensión de estados reactivos y estructura de navegación.
-3. [cite_start]**[Mini Reproductor de Música](../assets/proyecto2-stop.png)**: Reproductor multimedia funcional con procesamiento de audio, carga automática de assets y visualización dinámica].
+1. [cite_start]**[Sistema de Análisis y Gestión de Datos (COBIKE)](/assets/proyecto1-menu.png)**: Aplicación de consola robusta para el procesamiento, filtrado y exportación de datos en formato JSON.
+2. [cite_start]**[Mi Primera App](/assets/proyecto2-vista_sistema.png)**: Proyecto base en Flutter para la comprensión de estados reactivos y estructura de navegación.
+3. [cite_start]**[Mini Reproductor de Música](/assets/proyecto2-stop.png)**: Reproductor multimedia funcional con procesamiento de audio, carga automática de assets y visualización dinámica].
 
 ---
 
