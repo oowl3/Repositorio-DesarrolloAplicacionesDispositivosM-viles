@@ -1,0 +1,26 @@
+name: musicaaa
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+  just_audio: ^0.10.2
+  rxdart: ^0.28.0
+  cupertino_icons: ^1.0.8 
+  just_audio_windows: ^0.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/
+    - assets/images/
