@@ -24,7 +24,6 @@ El sistema soluciona la necesidad de procesar archivos de datos en formato JSON 
 * **Persistencia:** Lectura de archivos locales y exportación a `resumen.json`.
 
 ---
-
 ## 📸 Capturas de Pantalla
 ### Menú principal
 ![Menú principal](../assets/proyecto1-menu.png)
@@ -37,7 +36,6 @@ El sistema soluciona la necesidad de procesar archivos de datos en formato JSON 
 ---
 
 ## 🚀 Instrucciones de Ejecución
-
 1. **Requisitos:** Asegúrate de tener instalado el SDK de Dart en tu entorno.
 2. **Configuración:** Coloca el archivo `datos.json` en la misma carpeta que el archivo ejecutable.
 3. **Terminal:** Abre una terminal en el directorio del proyecto.
@@ -45,6 +43,7 @@ El sistema soluciona la necesidad de procesar archivos de datos en formato JSON 
    ```bash
    dart run proyecto_final.dart
 
+---
 ## Reflexión Personal
 * ¿Qué aprendí?
 Comprendí cómo transformar datos de texto plano (JSON) en objetos estructurados dentro de Dart, un proceso fundamental para el desarrollo móvil y web. Además, consolidé la importancia del Null Safety en aplicaciones profesionales.
