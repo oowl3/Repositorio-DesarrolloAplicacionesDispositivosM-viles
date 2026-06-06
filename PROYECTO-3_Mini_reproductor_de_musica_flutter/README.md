@@ -36,12 +36,12 @@ El sistema resuelve la complejidad de integrar procesamiento de audio real en un
 ![Directorio Musica](../assets/proyecto3-assets.png)
 
 ### Vista del sistema con la musica detenida
-![Stop](../assets/proyecto2-stop.png)
+![Stop](../assets/proyecto3-stop.png)
 
 ### Vista del sistema con la musica reproduciendose
-![Stop](../assets/proyecto2-play.png)
+![Stop](../assets/proyecto3-play.png)
 
-![Stop](../assets/proyecto2-play1.png)
+![Stop](../assets/proyecto3-play1.png)
 
 ---
 ## 🚀 Instrucciones de Ejecución
