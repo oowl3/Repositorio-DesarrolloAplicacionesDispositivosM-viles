@@ -41,8 +41,8 @@ El proyecto resuelve la necesidad de implementar una gestión de estado eficient
 2. **Creación:** Utilizar el comando `Flutter: New Project` desde la paleta de comandos.
 3. **Dependencias:** Asegurarse de incluir `english_words` y `provider` en el archivo `pubspec.yaml`.
 4. **Ejecución:**
-```bash
-   flutter run
+    ```bash
+    flutter run
 
 ---
 ## Reflexión Personal
